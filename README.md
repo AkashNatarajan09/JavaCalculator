@@ -1,30 +1,35 @@
-# Java Console Calculator
+# ☕ Java Console Calculator
 
-## Objective
-To build a basic calculator using Java console input and output.
+## Project Overview
+A modular, menu-driven console calculator application developed in Java that performs core arithmetic operations with structured program flow and proper input validation. This project demonstrates strong fundamentals in Java programming, control structures, and clean coding practices.
 
-## Tools Used
-- Java (JDK 21)
-- Visual Studio Code
-- Terminal
+## Tech Stack
+- Java
+- Object-Oriented Programming (OOP)
+- Command Line Interface (CLI)
 
-## Description
-This project is a simple console-based calculator written in Java.
-It allows the user to perform addition, subtraction, multiplication, and division.
-The program runs in a loop until the user chooses to exit.
+## Key Features
+- Addition, Subtraction, Multiplication, and Division
+- Menu-driven user interface using switch-case
+- Continuous execution using loop control
+- Input validation for robust user interaction
+- Graceful handling of division-by-zero scenarios
+- Clean and modular code structure
 
-## Concepts Used
-- Java methods
-- Scanner class
-- Loops
-- Switch case
-- Conditional statements
+## Technical Implementation
+- Applied OOP principles to organize logic
+- Used switch-case for efficient operation handling
+- Implemented loops for continuous execution
+- Ensured exception-safe arithmetic operations
+- Followed readable and maintainable coding standards
 
 ## How to Run
-1. Compile the program:
-   javac Calculator.java
-2. Run the program:
-   java Calculator
+
+Compile:
+javac Calculator.java
+
+Run:
+java Calculator
 
 ## Outcome
-This task helped me understand Java syntax, logic flow, and console-based application development.
+This project strengthened my understanding of Java fundamentals, control flow mechanisms, exception handling, and structured application design in a console-based environment.
